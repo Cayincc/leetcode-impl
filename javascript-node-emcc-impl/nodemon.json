@@ -1,0 +1,8 @@
+{
+    "watch": [
+        "src"
+    ],
+    "ignore":[],
+    "ext": ".ts,.tsx,.js,.jsx,.cjs,.mjs,.wasm",
+    "exec": "npx ts-node-esm ./src/main.ts"
+}
